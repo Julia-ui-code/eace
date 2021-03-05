@@ -1,0 +1,67 @@
+.menuzin{
+    color: #0051A5;
+    font-size: large;
+    font-weight: bold;
+  }
+  
+  .img-teste {
+    background-image: url('../img/fundonavbar1.png');
+    width: auto;
+    height: auto;
+    background-repeat: no-repeat;
+  }
+  .escrito{
+    /*margin-left: -200px;*/
+    font-weight: bold;
+  }
+  .escrito_inicio{
+    /*margin-left: -200px;*/
+    font-weight: bold;
+    font-size: large;
+  }
+  .escrito_inicio_um{
+    /*margin-left: -200px;*/
+    font-size: large;
+  }
+  .escrito_quemsomos{
+    /*margin-left: -200px;*/
+    font-size: medium;
+    text-align: justify;
+    
+  }
+  .botao_inicio{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    position: absolute;
+    right: 320px;
+  }
+  .botao_enviar{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    position: absolute;
+    right: 320px;
+    font-weight: bold;
+  }
+  .botao_proximo{
+    margin-top: 10px;
+    margin-bottom: 100px;
+    position: absolute;
+    right: 320px;
+    font-weight: bold;
+  }
+  .escrito_curso{
+    font-weight: bold;
+    text-align: center;
+  }
+  .pe{
+    margin-top: 100px;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+  .escrito_resultado{
+    font-weight: bold;
+    font-size: large;
+  }
+  .alternativa{
+    margin-top: 5px;
+  }
